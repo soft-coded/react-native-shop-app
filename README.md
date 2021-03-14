@@ -25,7 +25,7 @@ A shopping app built using expo and react native.
 
   ```
 
-1. Install the dependencies
+3. Install the dependencies
 
   ```
 
@@ -35,7 +35,7 @@ A shopping app built using expo and react native.
 
   ```
 
-1. Install the expo CLI (if not already done)
+4. Install the expo CLI (if not already done)
 
   ```
 
@@ -43,7 +43,7 @@ A shopping app built using expo and react native.
 
   ```
 
-1. Run the app
+5. Run the app
 
   ```
 
@@ -55,7 +55,7 @@ A shopping app built using expo and react native.
 
   ```
 
-1. Open in an android simulator, an iOS simulator, a web browser or a phone using the expo client.
+6. Open in an android simulator, an iOS simulator, a web browser or a phone using the expo client.
 
 
 
