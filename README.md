@@ -29,7 +29,7 @@ A shopping app built using expo and react native.
 
   ```
 
-  cd raect-native-shop-app
+  cd react-native-shop-app
 
   npm i
 
