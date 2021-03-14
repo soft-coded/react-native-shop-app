@@ -10,6 +10,7 @@ A shopping app built using expo and react native.
 
 * Expo
 * React Navigation (v3)
+* Redux
 
 
 
